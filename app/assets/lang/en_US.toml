@@ -35,9 +35,9 @@ loginPasswordDisclaimer1 = "Your password is sent directly to mojang and never s
 loginPasswordDisclaimer2 = "{appName} is not affiliated with Mojang AB."
 
 [ejs.loginOptions]
-loginOptionsTitle = "Login Options"
-loginWithMicrosoft = "Login with Microsoft"
-loginWithMojang = "Login with Mojang"
+loginOptionsTitle = "Options de connexion"
+loginWithMicrosoft = "Se connecter avec Microsoft"
+loginWithMojang = "Se connecter avec Mojang"
 cancelButton = "Cancel"
 
 [ejs.overlay]
@@ -135,8 +135,8 @@ waiting = "Waiting for Client.."
 state = "Server: {shortId}"
 
 [js.index]
-microsoftLoginTitle = "Microsoft Login"
-microsoftLogoutTitle = "Microsoft Logout"
+microsoftLoginTitle = "Connexion Microsoft"
+microsoftLogoutTitle = "Déconnexion Microsoft"
 
 [js.login]
 login = "LOGIN"
